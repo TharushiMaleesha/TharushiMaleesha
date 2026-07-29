@@ -5,7 +5,6 @@
 
 - 👯 I’m looking to collaborate on **QA Automation projects, web application testing projects, and open-source software quality initiatives.**
 
-- 🤝 I’m looking for help with **Building scalable automation frameworks, CI/CD integration, and industry best practices in Software Quality Assurance.**
 
 - 📫 How to reach me **tharushimaleesha9@gmail.com**
 
